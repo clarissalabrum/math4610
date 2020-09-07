@@ -25,3 +25,5 @@ Resolved with an email sent Sep. 1st.
 
 ## Task 6
 
+Version Control System enable you to save multiple versions of a project to be referred back too. These systems are useful when you want to return to a 
+previous version of your project. These systems are very useful when working with other people on the same project so that you can all make contributions and everyone will have the latest version of the project. [Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control#:~:text=Version%20control%20is%20a%20system,of%20file%20on%20a%20computer.)
