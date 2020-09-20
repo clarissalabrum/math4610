@@ -23,3 +23,8 @@ Compilation:
 ## Task 2
 
 README.md file for math4610 repository has been updated.
+
+## Task 3 
+
+Link to homework table of contents created and repository has been cloned on my local device.
+
