@@ -28,3 +28,6 @@ README.md file for math4610 repository has been updated.
 
 Link to homework table of contents created and repository has been cloned on my local device.
 
+## Task 4
+
+Analysis can be found [here](https://github.com/clarissalabrum/math4610/blob/master/homework/homework2/sheet2task4.pdf)
