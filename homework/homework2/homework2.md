@@ -60,3 +60,10 @@ The results of the program:
     1.00e-14  -1.67e+12 1.67e+12  
     1.00e-15  2.78e+14  -2.78e+14 
     1.00e-16  0.00e+00  4.16e-01 
+
+
+## Task 6
+
+There is probably an infinite number of finite difference approximations because there can be many points used in an approximations and you can grow the derivative as many times as desired. One thing that can be observed in these approximations is that the more points that are involved in the approximation the higher the rate of convergence is. Some examples for higher order derivatives can be found [here](https://github.com/clarissalabrum/math4610/blob/master/homework/homework2/higherOrder.png).
+
+Source: [Computational Methods](https://slideplayer.com/slide/4619856/), [Numerical Differentiation](http://www.engineering.uco.edu/~aaitmoussa/Courses/ENGR3703/Chapter6/ch6.pdf)
