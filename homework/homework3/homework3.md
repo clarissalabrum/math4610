@@ -2,7 +2,7 @@
 
 ## Task 1
 
-The analysis for the second derivative can be found [here](https://github.com/clarissalabrum/math4610/blob/master/homework/homework2/sheet2task5.pdf).
+Verification that the central difference approximation for the second derivative approximation defined in Task Sheet 2, Task 5 is second order accurate [is found here](https://github.com/clarissalabrum/math4610/blob/master/homework/homework2/sheet2task5.pdf).
 
 The code that runs the approximation can be found [here](https://github.com/clarissalabrum/math4610/blob/master/homework/homework2/Task5/src/Task5.java).
 
