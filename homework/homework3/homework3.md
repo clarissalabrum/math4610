@@ -28,3 +28,14 @@ The results of the program:
     15   1.00e-14   -1.67e+12   1.67e+12
     16   1.00e-15    2.78e+14  -2.78e+14
     17   1.00e-16    0.00e+00   4.16e-01
+
+## Task 2
+
+The following plot shows the log-log relationship between the increment values and the error in the approximation. The slope of the points, where the h value is small and results are not effected by the precision, is very close to 2. The slope of this approximation represents the the order of accuracy. Therefore the accuracy of the approximation is close to second order.
+
+![Task 2 plot](https://github.com/clarissalabrum/math4610/blob/master/homework/homework3/Task.png)
+
+As shown above the approximation begins to fail around h = 1x10^-4.
+
+The code for the plot can be found [here](https://github.com/clarissalabrum/math4610/blob/master/homework/homework3/Task2/main.py)
+
