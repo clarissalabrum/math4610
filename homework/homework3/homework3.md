@@ -39,3 +39,13 @@ As shown above the approximation begins to fail around h = 1x10^-4.
 
 The code for the plot can be found [here](https://github.com/clarissalabrum/math4610/blob/master/homework/homework3/Task2/main.py)
 
+## Task 3
+
+[Single Precision Code](https://github.com/clarissalabrum/math4610/blob/master/homework/homework3/Task3/precsion/src/SinglePrecision.java)
+
+    Output: 1.1920929E-7
+
+[Double Precision Code](https://github.com/clarissalabrum/math4610/blob/master/homework/homework3/Task3/precsion/src/DoublePrecision.java)
+
+    Output: 2.220446049250313E-16
+
