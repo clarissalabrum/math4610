@@ -48,4 +48,10 @@ The code for the plot can be found [here](https://github.com/clarissalabrum/math
 [Double Precision Code](https://github.com/clarissalabrum/math4610/blob/master/homework/homework3/Task3/precsion/src/DoublePrecision.java)
 
     Output: 2.220446049250313E-16
+    
+## Task 4
+
+[Link to Software Manual Table of Contents.](https://github.com/clarissalabrum/math4610/blob/master/softwareManuel/toc.md) The single and double precision codes have been added to the software manual and a link the the table of contents can be found in the home README file.
+
+
 
