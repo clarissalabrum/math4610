@@ -39,3 +39,24 @@ As shown above the approximation begins to fail around h = 1x10^-4.
 
 The code for the plot can be found [here](https://github.com/clarissalabrum/math4610/blob/master/homework/homework3/Task2/main.py)
 
+## Task 3
+
+[Single Precision Code](https://github.com/clarissalabrum/math4610/blob/master/homework/homework3/Task3/precsion/src/SinglePrecision.java)
+
+    Output: 1.1920929E-7
+
+[Double Precision Code](https://github.com/clarissalabrum/math4610/blob/master/homework/homework3/Task3/precsion/src/DoublePrecision.java)
+
+    Output: 2.220446049250313E-16
+    
+## Task 4
+
+[Link to Software Manual Table of Contents.](https://github.com/clarissalabrum/math4610/blob/master/softwareManuel/toc.md) The single and double precision codes have been added to the software manual and a link the the table of contents can be found in the home README file.
+
+## Task 5
+
+Created [machinePrecision.jar](https://github.com/clarissalabrum/math4610/blob/master/homework/homework3/Task3/precsion/src/machinePrecision.jar) containing the SinglePrecision.class and DoublePrecision.class files.
+
+## Task 6
+
+Some advantages of shared libraries listed in [this documentation](http://osr507doc.sco.com/en/tools/ShLib_WhatIs.html) is that the libraries save space on a system and they make executable files easier to maintain. A disadvantage to shared libraries is that programs that use that library require access to the library or it will not work so if the library is hard to access or if the library is updated it will make the processes harder to run the code verses having the code part of the program to start with. A helpful description of shared libraries was found [here](https://medium.com/@nickolasteixeira/shared-dynamic-libraries-vs-static-libraries-differences-in-performance-2716f5b3c826).
