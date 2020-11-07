@@ -11,3 +11,7 @@
 [SinglePrecision](https://github.com/clarissalabrum/math4610/blob/master/homework/homework3/Task3/SM_SinglePrecision.md)
 
 [DoublePrecision](https://github.com/clarissalabrum/math4610/blob/master/homework/homework3/Task3/SM_DoublePrecision.md)
+
+### Plot
+
+[Plot Multiple Expressions](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework4/PlotSM.md)
