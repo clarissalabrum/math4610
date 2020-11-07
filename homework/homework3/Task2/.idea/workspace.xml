@@ -16,7 +16,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/main.py" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -67,14 +67,16 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1346" y="601" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603161746565">
-      <screen x="-1600" y="515" width="1600" height="860" />
+    <state x="217" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604549574045">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="-1346" y="601" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872/-1600.515.1600.860@-1600.515.1600.860" timestamp="1603161746565" />
-    <state x="-1020" y="701" key="FileChooserDialogImpl" timestamp="1603161745039">
-      <screen x="-1600" y="515" width="1600" height="860" />
+    <state x="217" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872@0.0.1368.872" timestamp="1604549574045" />
+    <state x="496" y="189" key="FileChooserDialogImpl" timestamp="1604549437233">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="-1020" y="701" key="FileChooserDialogImpl/0.0.1368.872/-1600.515.1600.860@-1600.515.1600.860" timestamp="1603161745039" />
+    <state x="496" y="189" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1604549437233" />
     <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1603164196811">
       <screen x="-1600" y="515" width="1600" height="860" />
     </state>
@@ -91,5 +93,9 @@
       <screen x="-1600" y="515" width="1600" height="860" />
     </state>
     <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1368.872/-1600.515.1600.860@-1600.515.1600.860" timestamp="1603164196811" />
+    <state x="186" y="80" key="SettingsEditor" timestamp="1604549739011">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="186" y="80" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1604549739011" />
   </component>
 </project>
