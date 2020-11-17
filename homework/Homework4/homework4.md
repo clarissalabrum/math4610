@@ -56,8 +56,23 @@ Test using x = x - .2f(x)
     Iteration: 15 Current Value = 1.916108124518752E-12
     X: -3.8322162490375037E-13
     
+## Task 5
+
+[Bisection Method](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework4/Bisection.md)
+
+Testing this method with the equation from task 4:
+
+    Enter Lower Bound of Interval:
+    -.5
+    Enter Upper Bound of Interval:
+    .5
+    Enter the Desired Tolerance:
+    .00000001
+    X: -7.450580596923828E-9
     
-    
-    
+## Task 6
+
+I found documentation titled [Numerical Solution of Root-Finding Problem](http://www.math.niu.edu/~dattab/math435.2009/ROOT-FINDING.pdf). This documentation was really interesting because it lists different methods that we have covered in class as well as other methods I have never heard of. The documentation went further in detail about how these methods works which is very helpful. It is interesting how many ways there is to find a solution to root finding problems and how it is applicable to many different types of problems.
+
     
     
