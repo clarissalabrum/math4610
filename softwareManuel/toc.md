@@ -19,3 +19,5 @@
 ### Root Finding
 
 [Fixed Point Iteration](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework4/FixedPoint.md)
+
+[Bisection](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework4/Bisection.md)
