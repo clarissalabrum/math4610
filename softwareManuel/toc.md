@@ -15,3 +15,7 @@
 ### Plot
 
 [Plot Multiple Expressions](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework4/PlotSM.md)
+
+### Root Finding
+
+[Fixed Point Iteration](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework4/FixedPoint.md)
