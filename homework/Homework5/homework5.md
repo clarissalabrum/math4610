@@ -20,6 +20,16 @@ give a good approximation.
 
 # Task 4
 
+Below are the steps taken to do a computational convergence analysis on the Secant method.
+
+![Secant Method](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework5/Secant.png)
+
+The rate of convergence using the given funtion and the secant method resulted in about 1.069 which is slightly off from the expected 1.62. This could possibly be due to the reasons listed for the Newtons method.
+
 # Task 5
 
+[Software Manuel for the Hybrid Method](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework5/Hybrid.md)
+
 # Task 6
+
+I found this page very helpful in comparing the methods [https://arnold.hosted.uark.edu/NA/Pages/BisectSecantNewton.pdf](https://arnold.hosted.uark.edu/NA/Pages/BisectSecantNewton.pdf). Comparing the inputs, all three methods need the function but Newtons also needs the derivative. They all vary in the type of initial guess that they need but for best approximation the guesses should be close to the root. For convergence speed, Newtons is the fastest at 2 then secant at 1.62, and the Bisection at 1.
