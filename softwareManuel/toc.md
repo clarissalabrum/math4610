@@ -21,3 +21,9 @@
 [Fixed Point Iteration](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework4/FixedPoint.md)
 
 [Bisection](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework4/Bisection.md)
+
+[Newtons](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework5/Newtons.md)
+
+[Secant](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework5/Secant.md)
+
+[Hybrid - Bisection & Newton](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework5/Hybrid.md)
