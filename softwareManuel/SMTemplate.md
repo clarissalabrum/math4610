@@ -21,7 +21,7 @@ Once the code is up and running it will ask for the following:
 
     XXXXXXXXXXXXX
     
-The program will the print out
+The program will then print out
 
     XXXXXXXXXXX
 
