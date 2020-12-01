@@ -6,4 +6,4 @@
 
 ## Task 2
 
-
+[Click here to go to the test results and a comparison of the results](https://github.com/clarissalabrum/math4610/blob/master/homework/homework6/task2.md)
