@@ -31,3 +31,5 @@ Results for initial guess 6
     Iteration: 98 Current Value = NaN
     Iteration: 99 Current Value = NaN
     Iteration: 100 Current Value = NaN
+
+Neither of these guesses result in finding a root. This is most likely because the majority of the roots are close to the origin and the farther out from the origin you go the slope of the function flattens out. Because the Newton method relies on the tanget of the graph at each point to pick a new point we are picking values that have flat slopes the next approximate value is farther off.
