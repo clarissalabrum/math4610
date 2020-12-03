@@ -39,6 +39,6 @@ public class Bisection {
 
     // enter in f(x)
     public static double f(double x){
-        return x * Math.exp(3 * Math.pow(x, 2)) - 7 * x;
+        return Math.exp(-1 * x * x) * Math.sin(4 * x * x - 1) + .051;
     }
 }

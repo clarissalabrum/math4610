@@ -1,30 +1,43 @@
-import java.util.Scanner;
+ import java.util.Scanner;
 
-public class Newtons {
+public class Secant {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
+        double upper, lower;
         double xold, tol;
         int maxiter;
-        double xnew;
+        double xnew, x;
 
         System.out.println("Enter an Initial Guess:");
-        xold = input.nextDouble();
+        xold = -5;//input.nextDouble();
+        lower = xold;
+
+        System.out.println("Enter a Second Initial Guess:");
+        x = 6;//input.nextDouble();
+        upper = x;
 
         System.out.println("Enter the Desired Tolerance:");
-        tol = input.nextDouble();
+        tol = .000001;//input.nextDouble();
 
         System.out.println("Enter the Max Number of Iterations:");
-        maxiter = input.nextInt();
+        maxiter = 100;//input.nextInt();
 
         double error = 10 * tol;
         int iter = 0;
 
         while (iter < maxiter){
             iter++;
-            xnew = xold - f(xold) / d(xold);
+            while (f(xold) * f(x) > 0) {
+                xold += 1;
+                x -= 1;
+            }
+            xnew = x - f(x) * (x- xold) / (f(x) - f(xold));
             error = Math.abs(xnew - xold);
-            xold = xnew;
+            if (f(xnew) * f(x) < 0) {
+                xold = xnew;
+            } else x = xnew;
+
 
             System.out.println("Iteration: " + iter + " Current Value = " + xold);
 
@@ -44,9 +57,4 @@ public class Newtons {
     public static double f(double x){
         return Math.exp(-1 * x * x) * Math.sin(4 * x * x - 1) + .051;
     }
-    public static double d(double x){
-        return -2 * x * Math.exp(-1*x*x) * (Math.sin(4*x*x - 1) - 4 * Math.cos(4*x*x-1));
-    }
-
 }
-
