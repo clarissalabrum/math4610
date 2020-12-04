@@ -11,3 +11,5 @@
 [Tasksheet 5](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework5/homework5.md)
 
 [Tasksheet 6](https://github.com/clarissalabrum/math4610/blob/master/homework/homework6/homework6.md)
+
+[Tasksheet 7](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework7/homework7.md)
