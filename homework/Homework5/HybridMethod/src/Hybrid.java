@@ -11,13 +11,13 @@ public class Hybrid {
         double a, b;
 
         System.out.println("Enter Lower Bound of Interval:");
-        a = -5;//input.nextDouble();
+        a = input.nextDouble();
 
         System.out.println("Enter Upper Bound of Interval:");
-        b = 6;//input.nextDouble();
+        b = input.nextDouble();
 
         System.out.println("Enter the Desired Tolerance:");
-        tol = .000001;//input.nextDouble();
+        tol = input.nextDouble();
 
         Method solve = new Method(a, b, tol);
         ArrayList<Double> roots = solve.getRoots();
