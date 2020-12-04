@@ -28,6 +28,8 @@
 
 [Hybrid - Bisection & Newton](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework5/Hybrid.md)
 
+[Modified - Hybrid Method](https://github.com/clarissalabrum/math4610/blob/master/homework/homework6/ModifiedHybridMethodSM.md)
+
 ### Creating Matricies
 
 [Square Matrix](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework7/Task3/squareMatrixSM.md)
