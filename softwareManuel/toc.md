@@ -27,3 +27,29 @@
 [Secant](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework5/Secant.md)
 
 [Hybrid - Bisection & Newton](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework5/Hybrid.md)
+
+### Creating Matricies
+
+[Square Matrix](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework7/Task3/squareMatrixSM.md)
+
+[Upper Triangular Matrix](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework7/Task3/upperMatrix.md)
+
+[Lower Triangular Matrix](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework7/Task3/lowerMatrix.md)
+
+[Diagonal Matrix](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework7/Task3/diagMatrix.md)
+
+### Matrix Solvers
+
+[Back Substution](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework7/Task1/backSubstitutionsSM.md)
+
+[Forward Substitution](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework7/Task2/forwardSubstitutionSM.md)
+
+[Diagonal Matrix Solver](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework7/Task4/diagSolver.md)
+
+[Row Echelon Form](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework7/Task5/rowEchelon.md)
+
+### Matrix Algebra and Transformations
+
+[Transpose](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework7/Task2/transpose.md)
+
+
