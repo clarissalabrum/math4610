@@ -28,7 +28,7 @@ Here is the test of the code:
 ## Task 3
 
 [Square Matrix](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework7/Task3/squareMatrixSM.md)
-[Upper Triangular Matrix)[https://github.com/clarissalabrum/math4610/blob/master/homework/Homework7/Task3/upperMatrix.md)
+[Upper Triangular Matrix][https://github.com/clarissalabrum/math4610/blob/master/homework/Homework7/Task3/upperMatrix.md)
 [Lower Triangular Matrix](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework7/Task3/lowerMatrix.md)
 [Diagonal Matrix](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework7/Task3/diagMatrix.md)
 
