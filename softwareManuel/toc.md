@@ -48,7 +48,7 @@
 
 [Diagonal Matrix Solver](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework7/Task4/diagSolver.md)
 
-[Row Echelon Form](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework7/Task5/rowEchelon.md)
+[Row Echelon Form/Gaussian Elimination](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework7/Task5/rowEchelon.md)
 
 ### Matrix Algebra and Transformations
 
