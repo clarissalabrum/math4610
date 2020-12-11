@@ -22,3 +22,6 @@ Here is the result of testing it on a diagonally dominant matrix with a b vector
     0.41284403669724773
     -0.17431192660550457
 
+## Task 2 
+
+Created a [LU Decomposition](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework8/LUDecompSM.md) routine to solve a system of linear equations.
