@@ -56,4 +56,7 @@
 
 [Transpose](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework7/Task2/transpose.md)
 
+[Matrix Vector Multiplication](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework8/matrixVectorMultiplicationSM.md)
+
+[Hilbert Matrix](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework8/hilbertMatrixSM.md)
 
