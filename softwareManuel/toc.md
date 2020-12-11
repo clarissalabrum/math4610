@@ -50,6 +50,8 @@
 
 [Row Echelon Form/Gaussian Elimination](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework7/Task5/rowEchelon.md)
 
+[LU Decomposition](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework8/LUDecompSM.md)
+
 ### Matrix Algebra and Transformations
 
 [Transpose](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework7/Task2/transpose.md)
