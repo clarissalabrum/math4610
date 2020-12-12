@@ -12,22 +12,28 @@
 
 **Usage/Example:**
 
-To us this routine you would do the call 
+To use this routine you would do the call 
 
-    double[] C = matrixVectorMultiplication(A5, b);
+        double[][] u = {{1,2}, {3,4}};
+        double[] v = {2,3};
+        double[] result = matrixVectorMultiplication(u, v);
+        printVector(result);
 
 The code will then return the result
+
+        8.0
+        18.0
 
 **Implementation/Code:** The following is the code for matrixVectorMultiplication
 
     public static double[] matrixVectorMultiplication(double[][] A, double[] b) {
-        int n = b.length;
-        double[] C = new double[n];
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                C[i]= 0;
-                for (int k = 0; k < n; k++)
-                    C[i] += A[i][k] * b[k];
+        int rows = A.length;
+        int cols = b.length;
+        double[] C = new double[rows];
+        for (int i = 0; i < rows; i++) {
+            C[i]= 0;
+            for (int k = 0; k < cols; k++) {
+                C[i] += A[i][k] * b[k];
             }
         }
         return C;
