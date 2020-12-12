@@ -66,6 +66,18 @@
 
 [Outer Product](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework9/vectorOuterProductSM.md)
 
+[Magnitude - 1 Norm](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework9/Norms/mag1NormSM.md)
+
+[Magnitude - 2 Norm](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework9/Norms/mag2NormSM.md)
+
+[Magnitude - Infinity Norm](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework9/Norms/magInfinityNormSM.md)
+
+[Error - 1 Norm](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework9/Norms/error1NormSM.md)
+
+[Error - 2 Norm](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework9/Norms/error2NormSM.md)
+
+[Error - Infinity Norm](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework9/Norms/errorInfinityNormSM.md)
+
 ### Matrix Algebra and Transformations
 
 [Transpose](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework7/Task2/transpose.md)
