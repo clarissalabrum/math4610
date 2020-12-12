@@ -42,7 +42,7 @@
 
 ## Task 4
 
-[Jacobi Iteration(https://github.com/clarissalabrum/math4610/blob/master/homework/Homework9/jacobiSM.md)
+[Jacobi Iteration](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework9/jacobiSM.md)
 
 ## Task 5
 
