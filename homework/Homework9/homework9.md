@@ -25,3 +25,17 @@
 [Error - 2 Norm](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework9/Norms/error2NormSM.md)
 
 [Error - Infinity Norm](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework9/Norms/errorInfinityNormSM.md)
+
+## Task 3
+
+[Matrix Addition](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework9/Matrices/matrixAdditionSM.md)
+
+[Matrix Subtraction](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework9/Matrices/matrixSubtractionSM.md)
+
+[Matrix Scalar Multiplication](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework9/Matrices/matrixScalarMultiplication)
+
+[Transpose](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework7/Task2/transpose.md)
+
+[Matrix Vector Multiplication](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework8/matrixVectorMultiplicationSM.md)
+
+[Matrix Matrix Multiplication](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework9/Matrices/matrixMatrixMultiplicationSM.md)
