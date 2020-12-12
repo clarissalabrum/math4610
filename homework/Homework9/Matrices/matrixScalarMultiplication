@@ -1,0 +1,40 @@
+**Routine Name:** matrixScalarMultiplication  
+
+**Author:** Clarissa Labrum
+
+**Language:** Java
+
+**Description/Purpose:** Takes a matrix and a scalar and returns the multiplication of the 2.
+
+**Input:** a matrix and a scalar value
+
+**Output:** a resulting matrix of the multiplication
+
+**Usage/Example:**
+
+To use this routine you will use a call like the following
+
+    double[][] u = {{1,2}, {3,4}};
+    double c = 5;
+    double[][] result = matrixScalarMultiplication(u, c);
+    printMatrix(result);
+    
+The routine will then print out the result
+
+      5.00 10.00
+     15.00 20.00
+
+**Implementation/Code:** The following is the code for matrixScalarMultiplication
+
+    public static double[][] matrixScalarMultiplication(double[][] A, double c) {
+        int n = A.length;
+        double[][] C = new double[n][n];
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                C[i][j] = A[i][j] * c;
+            }
+        }
+        return C;
+    }
+
+**Last Modified:** December/2020
