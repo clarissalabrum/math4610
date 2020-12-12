@@ -54,6 +54,8 @@
 
 [Pivoting Gaussian Elimination](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework8/pivotingGaussEliminationSM.md)
 
+[Jacobi Iteration(https://github.com/clarissalabrum/math4610/blob/master/homework/Homework9/jacobiSM.md)
+
 ### Linear Algebra Operations on Vectors
 
 [Vector Additon](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework9/vectorAdditionSM.md)
