@@ -17,3 +17,9 @@
 [Tasksheet 8](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework8/homework8.md)
 
 [Tasksheet 9](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework9/homework9.md)
+
+[Tasksheet 10](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework10/homework10.md)
+
+[Tasksheet 11](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework11/homework11.md)
+
+[Tasksheet 12](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework12/homework12.md)
