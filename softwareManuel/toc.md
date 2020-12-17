@@ -94,6 +94,14 @@
 
 [Matrix Matrix Multiplication](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework9/Matrices/matrixMatrixMultiplicationSM.md)
 
+[Power Method](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework10/power.md)
+
+[Inverse Power Method](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework10/inversePower.md)
+
+[Matrix 1 Norm](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework10/matrix1norm.md)
+
+[Matrix Infinity Norm](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework10/matrixInfinitynorm.md)
+
 ### Initializing Matrices
 
 [Hilbert Matrix](https://github.com/clarissalabrum/math4610/blob/master/homework/Homework8/hilbertMatrixSM.md)
