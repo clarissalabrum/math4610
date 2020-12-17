@@ -18,4 +18,4 @@
 
 ## Task 6
 
-Condition numbers help determine if a matrix or a system of linear equations are well conditioned which tells if there is any error how big of an effect the error will have on the result. This is useful in linear algebra because having an ill conditioned system can lead to getting inaccurate results. A well conditions system on the other hand will not be greatly effected by there being error in the system or in round off error that may occur.
+Condition numbers help determine if a matrix or a system of linear equations are well conditioned which tells if there is any error how big of an effect the error will have on the result. This is useful in linear algebra because having an ill conditioned system can lead to getting inaccurate results. A well conditions system on the other hand will not be greatly effected by there being error in the system or in round off error that may occur. [https://en.wikipedia.org/wiki/Condition_number](https://en.wikipedia.org/wiki/Condition_number)
